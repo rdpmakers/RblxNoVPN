@@ -1,6 +1,7 @@
 --[[
 you can use this as ip grabber or something you're professional to edit
 you can also kick the player
+YOU BETTER ENCRYPT THIS FILE AFTER USING IT
 ]]
 -- Replace "YOUR_API_KEY" with your actual API key
 local apiKey = "YOUR_API_KEY"
